@@ -6,4 +6,4 @@ To maintain an accessible and healthy decision format where all teams are heard,
 - If the TC or OC agree on one single proposal, all team leaders vote either in favor or against it. 
 - If two or more ideas exist within a committee, team leaders may vote for their favorite proposal.
 
-A decision is only made when at least 50% of all team leaders support it, and will then be integrated in future documents and rules.
+A proposal gets accepted when 50% or more team leaders support it, and will only then be integrated in future rules and documents.
